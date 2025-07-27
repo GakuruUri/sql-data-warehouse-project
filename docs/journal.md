@@ -1,2 +1,2 @@
 New DataWarehouse DB:
-![Data Architecture](data_warehouse.png)
+![Data Architecture](data_warehousedb.png)
