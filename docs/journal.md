@@ -1,6 +1,3 @@
-### New DataWarehouse DB:
-
-![Data Architecture](data_warehousedb.png)
 
 ### Create database and schemas
 
@@ -46,6 +43,10 @@ GO
 CREATE SCHEMA gold;
 GO
 ```
+
+### New DataWarehouse DB:
+
+![Data Architecture](data_warehousedb.png)
 
 
 ### DDL Scripts to create all tables for the bronze layer
